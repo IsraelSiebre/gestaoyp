@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gestaoyp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gestaoyp_jar</output-path>
+    <root id="archive" name="gestaoyp.jar">
+      <element id="module-output" name="gestaoyp" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/toedter/jcalendar/1.4/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/pdfbox/fontbox/2.0.30/fontbox-2.0.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox/2.0.30/pdfbox-2.0.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/xerial/sqlite-jdbc/3.36.0.3/sqlite-jdbc-3.36.0.3.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.apache.pdfbox:fontbox:2.0.30" />
+      <element id="library" level="project" name="Maven: org.apache.pdfbox:pdfbox:2.0.30" />
+    </root>
+  </artifact>
+</component>
